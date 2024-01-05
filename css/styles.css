@@ -30,3 +30,17 @@ body {
     height: 100px;
     margin: 1em;
   }
+
+  .button{
+    background-color: #f0f;
+    border:5px solid #0F0;
+    color: #0F0;
+    padding: 10px 30px;
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .center{
+    text-align: center;
+  }
